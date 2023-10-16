@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 24
-  productGUID: 00000000000000000000000000000000
+  productGUID: a77da46b9fd4c1840a86c28408abfaa7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -656,7 +656,7 @@ PlayerSettings:
   cloudProjectId: 1f128a46-dea4-4706-8b59-237eafbe15bb
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Clive Crypt
   organizationId: pandora6722
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
